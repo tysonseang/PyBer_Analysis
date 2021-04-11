@@ -18,7 +18,7 @@ Weekly total fares analyzed from January through April 2019 indicate that the to
 
 
 
-![PyBer Scatter by City Type](http://localhost:8889/view/Desktop/UT_Courses/Module_5/PyBer_Analysis/analysis/Fig1.png)
+![PyBer Scatter by City Type](http://localhost:8889/view/Desktop/UT_Courses/Module_5/PyBer_Analysis/analysis/Fig1.png123)
 
 ![Percent of Total Fares by City Type](http://localhost:8889/view/Desktop/UT_Courses/Module_5/PyBer_Analysis/analysis/Fig5.png)
 
