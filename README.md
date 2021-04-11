@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Analysis
 For this analysis, Python, Jupyter Notebook, Pandas, and Python's two-dimensional plotting library, Matplotlib were used to inspect data, merge data sets, perform calculations, and create multiple data series and data frames. Data was then visualized in the form of various line, bar, scatter, bubble, pie, and box-and-whisker plots.   
 
 ## Overview
