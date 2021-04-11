@@ -8,7 +8,7 @@ Python scripts using Pandas libraries, Jupyter Notebook, and Matplotlib were use
 
 ## Results
 
-As seen in the DataFrame below, ride-sharing data varies widely across the three city types analyzed. Among the city types, rural locations saw the lowest number of rides, drivers, and total fares. This resulted in the highest average fare per ride and the highest average fare per driver. In contrast, urban cities saw 13x as many total rides, more than 30x as many drivers, and 9x the total fares. The average fare per ride was roughly $10 lower while the average fare per driver was nearly $40 lower.  
+As seen in the DataFrame below, ride-sharing data varies widely across the three city types analyzed. Among the city types, rural locations saw the lowest number of rides, drivers, and total fares. This resulted in the highest average fare per ride and the highest average fare per driver. In contrast, urban cities saw 13x as many total rides, more than 30x as many drivers, and 9x the total fares. The average fare per ride in urban cities was roughly $10 lower than in rural cities  while the average fare per driver was nearly $40 lower.  
 
 ![PyBer_fare summary DataFrame](https://github.com/tysonseang/PyBer_Analysis/blob/main/analysis/PyBer_DataFrame_summary.png)
 
