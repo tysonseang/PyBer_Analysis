@@ -5,7 +5,7 @@ purpose
 
 ## Results
 
-As seen in the DataFrame below, Ride-sharing data varies widely across the three city types analysed. Among the city types, rural locations saw the lowest number of rides, drivers, and total fares. This resulted in the highest average fare per ride and the highest average fare per driver. The inverse is true for ride-shares in urban cities, which saw 13x as many rides, more than 30x as many drivers, and 9x the toal fares. The average fare per ride was roughly $10 lower while the average fare per driver was nearly $40 lower.  
+As seen in the DataFrame below, Ride-sharing data varies widely across the three city types analyzed. Among the city types, rural locations saw the lowest number of rides, drivers, and total fares. This resulted in the highest average fare per ride and the highest average fare per driver. The inverse is true for ride-shares in urban cities, which saw 13x as many rides, more than 30x as many drivers, and 9x the toal fares. The average fare per ride was roughly $10 lower while the average fare per driver was nearly $40 lower.  
 
 ![PyBer_fare summary DataFrame](https://github.com/tysonseang/PyBer_Analysis/blob/main/analysis/PyBer_DataFrame_summary.png)
 
