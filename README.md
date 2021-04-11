@@ -18,13 +18,13 @@ Weekly total fares analyzed from January through April 2019 indicate that the to
 
 
 
-![PyBer Scatter by City Type](http://localhost:8889/view/Desktop/UT_Courses/Module_5/PyBer_Analysis/analysis/Fig1.png123)
+![PyBer Scatter by City Type](https://github.com/tysonseang/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
-![Percent of Total Fares by City Type](http://localhost:8889/view/Desktop/UT_Courses/Module_5/PyBer_Analysis/analysis/Fig5.png)
+![Percent of Total Fares by City Type](https://github.com/tysonseang/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
-![Percent of Total Rides by City Type](http://localhost:8889/view/Desktop/UT_Courses/Module_5/PyBer_Analysis/analysis/Fig6.png)
+![Percent of Total Rides by City Type](https://github.com/tysonseang/PyBer_Analysis/blob/main/analysis/Fig6.png)
 
-![Percent of Total Drivers by City Type](http://localhost:8889/view/Desktop/UT_Courses/Module_5/PyBer_Analysis/analysis/Fig7.png)
+![Percent of Total Drivers by City Type](https://github.com/tysonseang/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 ## Summary
 
