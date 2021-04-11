@@ -19,6 +19,8 @@ Weekly total fares analyzed from January through April 2019 indicate that the to
 ## Summary
 
 Based on the results, three business recommendations were provided the PyBer's CEO in order to address the disparities among city types. 
+![TEST](https://github.com/tysonseang/PyBer_Analysis/blob/main/analysis/Fig1.png)
+
 
 - XXX
 - XXX
