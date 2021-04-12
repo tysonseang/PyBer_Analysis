@@ -16,11 +16,11 @@ Weekly total fares analyzed from January through April 2019 indicate that the to
 
 ![PyBer_fare_summary Over Time](https://github.com/tysonseang/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-Scatter plots were also created to analyze relationships between total rides, averages fares, and driver counts for each city. 
+Scatter plots were created to analyze relationships between total rides, averages fares, and driver counts for each city. 
 
 ![PyBer Scatter by City Type](https://github.com/tysonseang/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
-XXX
+Pie charts were also created to visualize the percentage breakdown of total fares, total rides, and total drivers by city type.
 
 ![Percent of Total Fares by City Type](https://github.com/tysonseang/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
