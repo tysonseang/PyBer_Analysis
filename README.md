@@ -2,7 +2,7 @@
 For this analysis, Python, Jupyter Notebook, Pandas, and Python's two-dimensional plotting library, Matplotlib were used to inspect data, merge data sets, perform calculations, and create multiple data series and data frames. Data was then visualized in the form of various line, bar, scatter, bubble, pie, and box-and-whisker plots.   
 
 ## Overview
-PyBer, a python-based ride-sharing app company, wanted to analyze access and affordability for ride-shares in rural, suburban, and urban cities. For this research project, the city_data.csv file, which tracked driver counts across various cities and city types, as well as the ride_data.csv file, which tracked rides by city, date, fare, and fare id, were used as source files. 
+PyBer, a python-based ride-sharing app company, wanted to analyze access and affordability for ride-shares in rural, suburban, and urban cities. For this research project, the [city_data.csv](Resources/city_data.csv) file, which tracked driver counts across various cities and city types, as well as the [ride_data.csv](Resources/ride_data.csv) file, which tracked rides by city, date, fare, and fare id, were used as source files. 
 
 Python scripts using Pandas libraries, Jupyter Notebook, and Matplotlib were used to transform this data into a variety of charts that showcase the relationship between the type of city and the number of rides and drivers, as well as create a line chart that shows the total weekly fares for each city type.
 
