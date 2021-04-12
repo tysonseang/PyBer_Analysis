@@ -14,9 +14,9 @@ As seen in the DataFrame below, ride-sharing data varies widely across the three
 
 Weekly total fares analyzed from January through April 2019 indicate that the total number of urban fares outpaced suburban fares week-over-week. Likewise, suburban fares outpaced total fares in rural cities each week during the time period. 
 
+Scatter plots were also created to analyze relationships between total rides, averages fares, and driver counts for each city. 
+
 ![PyBer_fare_summary Over Time](https://github.com/tysonseang/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
-
-
 
 ![PyBer Scatter by City Type](https://github.com/tysonseang/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
